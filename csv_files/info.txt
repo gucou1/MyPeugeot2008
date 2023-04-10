@@ -1,1 +1,3 @@
 
+CSV files with details from trips recorded by the car's system.
+1 file per month
